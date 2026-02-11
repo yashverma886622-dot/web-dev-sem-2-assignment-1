@@ -1,12 +1,12 @@
-# web-dev-sem-2-assignment-1
 
-# Smart Event Dashboard
+# web-dev-sem-2-assignment-1
 # Project Description
 
-Smart Event Dashboard ek simple web-based application hai jisme users events add, display aur manage kar sakte hain.
-Yeh project HTML, CSS aur Vanilla JavaScript ka use karke banaya gaya hai without any external libraries or frameworks.
+The Smart Event Dashboard is a simple web-based application that allows users to add, display, and manage events dynamically.
 
-Is project ka main focus hai:
+This project is built using HTML, CSS, and Vanilla JavaScript without using any external libraries or frameworks.
+
+The main goal of this project is to demonstrate:
 
 DOM Manipulation
 
@@ -14,36 +14,49 @@ Event Handling
 
 Dynamic Element Creation
 
-Clean UI using CSS
+Clean UI Design using CSS
 
 # Features
 1️ Add Event
 
-User form ke through event add kar sakta hai.
+Users can add a new event using the form.
+Each event includes:
 
-Event Title, Date, Category aur Description input liya jata hai.
+Event Title
 
-Event dynamically card format me display hota hai.
+Event Date
+
+Category
+
+Description
+
+The event is displayed dynamically as a card.
 
 2️ Delete Single Event
 
-Har event card me delete (x) option diya gaya hai.
-
-Click karne par specific event remove ho jata hai.
+Each event card contains a delete (x) button.
+Clicking it removes that specific event from the dashboard.
 
 3️ Clear All Events
 
-“Clear All Events” button se saare events ek saath remove ho jate hain.
+The “Clear All Events” button removes all event cards at once.
 
 4️ Add Sample Events
 
-Predefined sample events automatically load kiye ja sakte hain demo ke liye.
+Predefined sample events can be added for demonstration purposes.
 
 5️ DOM Manipulation Demo
 
-Keyboard key press karne par screen par “You pressed: (key)” display hota hai.
+When a user presses any key on the keyboard, the application displays:
 
-Isme keydown event aur innerText ka use kiya gaya hai.
+You pressed: <key>
+
+
+This demonstrates:
+
+keydown event handling
+
+Dynamic DOM updates using innerText
 
 # Technologies Used
 
@@ -53,25 +66,36 @@ CSS3
 
 JavaScript (Vanilla JS)
 
-DOM Manipulation
-
-Event Listeners
+DOM API
 
 # Concepts Implemented
 
-querySelector() and querySelectorAll()
+querySelector()
+
+querySelectorAll()
 
 addEventListener()
 
 createElement()
 
-innerHTML and innerText
+innerHTML
+
+innerText
 
 forEach()
 
-Dynamic DOM updates
+Dynamic DOM manipulation
 
-Keyboard events (keydown)
+Keyboard events
+
+# Project Screenshots
+# Event Form
+
+# Event Cards
+
+# Sample Events
+
+⌨# DOM Manipulation Demo
 
 # Project Structure
 Smart-Event-Dashboard/
@@ -79,29 +103,32 @@ Smart-Event-Dashboard/
 ├── index.html
 ├── style.css
 ├── script.js
+├── images/
 └── README.md
 
-# How to Run
+▶️ How to Run the Project
 
-Download or clone the project.
+Clone or download the repository.
 
-Open index.html in any browser.
+Open the project folder.
+
+Open index.html in any web browser.
 
 Start adding and managing events.
 
-# Learning Outcome
+🎓 Learning Outcome
 
-Is project ke through maine:
+Through this project, I learned:
 
-DOM manipulation samjha
+How to manipulate the DOM dynamically
 
-Event handling implement kiya
+How to handle events in JavaScript
 
-Dynamic UI generation seekha
+How to create and remove elements programmatically
 
-JavaScript aur HTML integration practice ki
+How to structure a simple web application
 
-# Here are some screenshot of the outcome:-
+# Here are some screenshots:-
 
 ![alt text](image.png)
 ![alt text](<Screenshot 2026-02-11 104400.png>)
@@ -109,5 +136,9 @@ JavaScript aur HTML integration practice ki
 ![alt text](<Screenshot 2026-02-11 111916.png>)
 
 
-# Author
+👨‍💻 Author
+
 Yash Verma
+
+
+
