@@ -101,5 +101,13 @@ Dynamic UI generation seekha
 
 JavaScript aur HTML integration practice ki
 
+# Here are some screenshot of the outcome:-
+
+![alt text](image.png)
+![alt text](<Screenshot 2026-02-11 104400.png>)
+![alt text](<Screenshot 2026-02-11 111812.png>)
+![alt text](<Screenshot 2026-02-11 111916.png>)
+
+
 # Author
 Yash Verma
